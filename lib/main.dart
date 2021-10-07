@@ -65,4 +65,5 @@ class _BarcodeState extends State<Barcode> {
   }
 }
 
+// kaynak
 // https://zahidtekbas.com.tr/2021/01/03/flutter-future-nedir-nasil-kullanilir/
